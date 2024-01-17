@@ -2,15 +2,8 @@ import React from 'react'
 import Header from "./Header";
 import Footer from "./Footer";
 import Note from "./Note";
-import data from "../data";
+import CreateArea from "./CreateArea";
 
-
-const notes =  data.map(obj =>  
-  <Note 
-    key = {data.key}
-    title = {data.title}
-    content = {data.content}
-  />)
 
 
 export default function App() {
@@ -18,7 +11,8 @@ export default function App() {
   return (
     <div>
         <Header />
-        {notes}
+        <CreateArea />
+        <Note key={1} title="Note title" content="Note content" />
         <Footer />
     </div>
   )
