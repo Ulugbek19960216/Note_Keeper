@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/notekeeper/static/js/main.236e8dd5.js",
-    "index.html": "/notekeeper/index.html",
-    "main.236e8dd5.js.map": "/notekeeper/static/js/main.236e8dd5.js.map"
+    "main.js": "/Ulugbek19960216/Note_Keeper/tree/main/notekeeper/static/js/main.236e8dd5.js",
+    "index.html": "/Ulugbek19960216/Note_Keeper/tree/main/notekeeper/index.html",
+    "main.236e8dd5.js.map": "/Ulugbek19960216/Note_Keeper/tree/main/notekeeper/static/js/main.236e8dd5.js.map"
   },
   "entrypoints": [
     "static/js/main.236e8dd5.js"
