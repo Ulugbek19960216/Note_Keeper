@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/notekeeper/static/js/main.236e8dd5.js",
+    "index.html": "/notekeeper/index.html",
+    "main.236e8dd5.js.map": "/notekeeper/static/js/main.236e8dd5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.236e8dd5.js"
+  ]
+}
